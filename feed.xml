@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>steakordietest</title>
+    <link href="https://david-lkmx.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://david-lkmx.github.io/publii-test" />
+    <updated>2021-03-25T11:45:47-07:00</updated>
+    <author>
+        <name>david.rodriguez</name>
+    </author>
+    <id>https://david-lkmx.github.io/publii-test</id>
+
+    <entry>
+        <title>This was written with MD</title>
+        <author>
+            <name>david.rodriguez</name>
+        </author>
+        <link href="https://david-lkmx.github.io/publii-test/this-was-written-with-md/"/>
+        <id>https://david-lkmx.github.io/publii-test/this-was-written-with-md/</id>
+
+        <updated>2021-03-25T11:45:47-07:00</updated>
+            <summary>
+                <![CDATA[
+                    in case you forgot MD Deleted Blanks Italics this is a link to my github this blog is super cool &lt;div&gt;hello word&lt;div/&gt; 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="in-case-you-forgot-md">in case you forgot MD</h2>
+<p><del>Deleted</del></p>
+<p><strong>Blanks</strong></p>
+<p><em>Italics</em></p>
+<p><a href="https://github.com/">this is a link to my github</a></p>
+<ol>
+<li>item 1</li>
+<li>item 2</li>
+</ol>
+<blockquote>
+<p>this blog is super cool </p>
+</blockquote>
+<p><code>&lt;div&gt;hello word&lt;div/&gt;</code></p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

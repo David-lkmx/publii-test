@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "steakordietest",
+    "description": "",
+    "home_page_url": "https://david-lkmx.github.io/publii-test",
+    "feed_url": "https://david-lkmx.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "david.rodriguez"
+    },
+    "items": [
+        {
+            "id": "https://david-lkmx.github.io/publii-test/this-was-written-with-md/",
+            "url": "https://david-lkmx.github.io/publii-test/this-was-written-with-md/",
+            "title": "This was written with MD",
+            "summary": "in case you forgot MD Deleted Blanks Italics this is a link to my github this blog is super cool &lt;div&gt;hello word&lt;div/&gt; ",
+            "content_html": "<h2 id=\"in-case-you-forgot-md\">in case you forgot MD</h2>\n<p><del>Deleted</del></p>\n<p><strong>Blanks</strong></p>\n<p><em>Italics</em></p>\n<p><a href=\"https://github.com/\">this is a link to my github</a></p>\n<ol>\n<li>item 1</li>\n<li>item 2</li>\n</ol>\n<blockquote>\n<p>this blog is super cool </p>\n</blockquote>\n<p><code>&lt;div&gt;hello word&lt;div/&gt;</code></p>\n",
+            "author": {
+                "name": "david.rodriguez"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-25T11:21:49-07:00",
+            "date_modified": "2021-03-25T11:45:47-07:00"
+        }
+    ]
+}
