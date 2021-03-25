@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://david-lkmx.github.io/publii-test/this-was-written-with-md/",
-            "url": "https://david-lkmx.github.io/publii-test/this-was-written-with-md/",
-            "title": "This was written with MD",
-            "summary": "in case you forgot MD Deleted Blanks Italics this is a link to my github this blog is super cool &lt;div&gt;hello word&lt;div/&gt; ",
-            "content_html": "<h2 id=\"in-case-you-forgot-md\">in case you forgot MD</h2>\n<p><del>Deleted</del></p>\n<p><strong>Blanks</strong></p>\n<p><em>Italics</em></p>\n<p><a href=\"https://github.com/\">this is a link to my github</a></p>\n<ol>\n<li>item 1</li>\n<li>item 2</li>\n</ol>\n<blockquote>\n<p>this blog is super cool </p>\n</blockquote>\n<p><code>&lt;div&gt;hello word&lt;div/&gt;</code></p>\n",
+            "id": "https://david-lkmx.github.io/publii-test/a/",
+            "url": "https://david-lkmx.github.io/publii-test/a/",
+            "title": "Blockchain",
+            "summary": " Industries Using ACME Confidential Compute Environments enables you to run secure applications, giving you the option to access private data sets, without disclosing sensitive company data or your customers data. This provides a unique opportunity for outside firms to analyze and aggregate data without&hellip;",
+            "content_html": "<!-- Hero -->\n\n<columns mode=\"slim\">\n\n<p>Industries </p>\n<p>Using ACME Confidential Compute Environments enables you to run secure applications, giving you the option to access private data sets, without disclosing sensitive company data or your customers data. This provides a unique opportunity for outside firms to analyze and aggregate data without having to give them the keys for your fortress.</p>\n</columns>\n\n<columns mode=\"slim\">\n\n<block>\n\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"./media/files/industrie-blockchain.jpg\" data-is-external-image=\"true\"  alt=\"cover\" /></figure></p>\n</block>\n\n<block>\n\n<h3 id=\"how-can-we-help\">How Can We Help</h3>\n<p>ACME is the trusted technology partner for the global Blockchain and life sciences industry. As the most mature and reliable cloud platform—with an extensive portfolio of Blockchain and life sciences solutions—ACME provides the security and privacy to operate in a highly regulated industry. With ACME, organizations can increase the pace of innovation, unlock the potential of data, and personalize the Blockchain journey.</p>\n<p>If you are interested in collaborating on a specific solution for your organization, please contact your ACME Account Manager, or if this is during business hours, use the click-to-chat service.</p>\n</block>\n\n</columns>\n\n\n<columns mode=\"slim\" number=\"2\" number-s=\"1\">\n\n<block>\n\n<p>Learn about</p>\n<p><a href=\"/\">Scalable Options</a></p>\n</block>\n\n</columns>\n\n<columns mode=\"slim\">\n\n<h3 id=\"get-started-in-acme\">Get Started in ACME</h3>\n<p>It’s easy to get started. Just get in contact to learn more.</p>\n<p><button>Contact us for the next steps</button></p>\n</columns>\n\n\n\n\n\n\n\n\n\n",
             "author": {
                 "name": "david.rodriguez"
             },
             "tags": [
             ],
-            "date_published": "2021-03-25T11:21:49-07:00",
-            "date_modified": "2021-03-25T11:45:47-07:00"
+            "date_published": "2021-03-25T14:43:01-07:00",
+            "date_modified": "2021-03-25T15:19:29-07:00"
         }
     ]
 }
